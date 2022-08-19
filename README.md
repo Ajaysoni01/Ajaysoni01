@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajaysoni01
 - 👀 I’m interested in ...Software Developer
-- 🌱 I’m currently learning ...programming And Ds
+- 🌱 I’m currently learning ...programming And DSA
 - 💞️ I’m looking to collaborate on ... developing
 - 📫 How to reach me ...@ajay_soni01
 
